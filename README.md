@@ -15,25 +15,25 @@ It is the reputable sources on the internet like Spamhouse.org.
 It means that they are TLDs that are used in spams, scams, phishing, hacking and other unethical things in the same nature.
 
 ## What is even a TLD?
-It stands for Top-Level domain and it is described as the first outer component of a domain or simply the last word after the period (like .com or .org).
+It stands for Top-Level domain and it is described as highest level in the hierarchical Domain Name System of the Internet after the root domain or simply it is the last word after the period (like .com or .org).
 
 ## Add this filterlist to your Adblock
-### Github
+### Github (Real-time)
 •Raw: https://raw.githubusercontent.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 <br>
 •Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 
-### jsDelivr CDN
+### jsDelivr CDN (12 Hours Delay)
 •Raw: https://cdn.jsdelivr.net/gh/thedoggybrad/AntiTLDAbuserFilterlist@main/list.txt
 <br>
 •Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/thedoggybrad/AntiTLDAbuserFilterlist@main/list.txt
 
-### Statically CDN
+### Statically CDN (1 Day Delay)
 •Raw: https://cdn.statically.io/gh/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 <br>
 •Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 
-### Githack CDN
+### Githack CDN (Minutes of Delay)
 •Raw: https://raw.githack.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 <br>
 •Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://raw.githack.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
