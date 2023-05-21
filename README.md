@@ -11,8 +11,11 @@ or even google.com right?
 ## Our Sources of those TLDs under that category
 It is the reputable sources on the internet like Spamhouse.org.
 
-## License Agreement
-This project uses the MIT License, and it says that you can do whatever you want in this project like doing modifications and even creating a new product with this that you can patent.
+## Our definition of "abused"
+It means that they are TLDs that are used in spams, scams, phishing, hacking and other unethical things in the same nature.
+
+## What is even a TLD?
+It stands for Top-Level domain and it is described as the first outer component of a domain or simply the last word after the period (like .com or .org).
 
 ## Add this filterlist to your Adblock
 ### Github
@@ -36,11 +39,26 @@ This project uses the MIT License, and it says that you can do whatever you want
 •Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://raw.githack.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 
 
-## What is even a TLD?
-It stands for Top-Level domain and it is described as the first outer component of a domain or simply the last word after the period (like .com or .org).
+## What is Raw, Subscribe and CDNs?
+This section is just an additional information about those options. Since not all the people know what are those terms.
+<br>
+<br>
+•Raw - It is a raw text file you can add to your adblock.
+<br>
+•Subscribe- This is a easy to use link that automatically adds this adblock filter to your Adblock Plus compatible adblock extension. It uses the raw file in GitHub
+<br>
+•Github- It is the original source file, hosted here in GitHub. It is the one we recommend to use.
+<br>
+•CDNs - It stands for Content Delivery Network and they are used to distribute a file or an entire website faster to multiple people, location and devices with the help of a cache (copy of the file in other servers) and that cache is stored on multiple servers by the CDN provider.
+<br>
+✓jsDelivr CDN - It is a public content delivery network, designed for open-source projects like this one. It is powered by multiple CDN and DNS providers (including CloudFlare CDN, Fastly CDN, NS1 DNS, GCore CDN, Bunny.NET CDN, Render API, Digital Ocean service and many more).
+<br>
+✓GitHack CDN - It is an another public content delivery network, but only powered by CloudFlare CDN.
+<br>
+✓Statically CDN - It is an another public content delivery network, designed for developers and powered by Fastly, CloudFlare amd Bunny.NET.
 
-## Our definition of "abused"
-It means that they are TLDs that are used in spams, scams, phishing and hacking.
+## License Agreement
+This project uses the [MIT License](https://github.com/thedoggybrad/AntiTLDAbuserFilterlist/blob/main/LICENSE), and it says that you can do whatever you want in this project like doing modifications and even creating a new product with this that you can patent.
 
 ## Issues Reporting and Suggestions
 I do not monitor my Github account always but I do monitor my Go Social! email address almost once a day. So, for issues and suggestions be sure to email admin@gosocial.x10.bz
