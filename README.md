@@ -21,4 +21,9 @@ This project uses the MIT License, and it says that you can do whatever you want
 ## What is even a TLD?
 It stands for Top-Level domain and it is described as the first outer component of a domain or simply the last word after the period (like .com or .org).
 
+## Our definition of "abused"
+It means that they are TLDs that are used in spams, scams, phishing and hacking.
+
+## Issues Reporting and Suggestions
+I do not monitor my Github account always but I do monitor my Go Social! email address almist once a day. So, for issues and suggestions be sure to email admin@gosocial.x10.bz
 
