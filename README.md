@@ -25,6 +25,17 @@ This project uses the MIT License, and it says that you can do whatever you want
 <br>
 •Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/thedoggybrad/AntiTLDAbuserFilterlist@main/list.txt
 
+### Statically CDN
+•Raw: https://cdn.statically.io/gh/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
+<br>
+•Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
+
+### Githack CDN
+•Raw: https://raw.githack.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
+<br>
+•Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://raw.githack.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
+
+
 ## What is even a TLD?
 It stands for Top-Level domain and it is described as the first outer component of a domain or simply the last word after the period (like .com or .org).
 
