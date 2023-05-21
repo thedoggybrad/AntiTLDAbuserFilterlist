@@ -2,6 +2,7 @@
 ! Title: Anti TLD Abuser Filterlist
 ! Expires: 4 days (update frequency)
 ! Version: 1.0
+! Description: Warns you from visiting sites using the most and probably abused TLDs.
 ||zip^
 ||rest^
 ||boston^
@@ -19,5 +20,9 @@
 ||xyz^
 ||ch^
 ||it^
-||de^
+||stream^
 ||cc^
+||top^
+||pw^
+||mobi^
+||me^
