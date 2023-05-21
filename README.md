@@ -9,3 +9,7 @@ It is the TLDs that are commonly abused but not those common ones like .com, .or
 
 ## Our Sources of those TLDs under that category
 It is the reputable sources on the internet like Spamhouse.org.
+
+## License Agreement
+This project uses the MIT License, and it says that you can do whatever you want in this project like doing modifications and even creating a new product with this that you can patent.
+
