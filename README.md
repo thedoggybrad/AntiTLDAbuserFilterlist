@@ -16,6 +16,7 @@ This project uses the MIT License, and it says that you can do whatever you want
 
 ## Add this filterlist to your Adblock
 •Raw: https://raw.githubusercontent.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
+•Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 
 ## What is even a TLD?
 It stands for Top-Level domain and it is described as the first outer component of a domain or simply the last word after the period (like .com or .org).
