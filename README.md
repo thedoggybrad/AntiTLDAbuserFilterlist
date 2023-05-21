@@ -23,7 +23,7 @@ It stands for Top-Level domain and it is described as highest level in the hiera
 <br>
 •Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 
-### jsDelivr CDN (12 Hours Delay)
+### jsDelivr CDN (1 Week Delay)
 •Raw: https://cdn.jsdelivr.net/gh/thedoggybrad/AntiTLDAbuserFilterlist@main/list.txt
 <br>
 •Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/thedoggybrad/AntiTLDAbuserFilterlist@main/list.txt
