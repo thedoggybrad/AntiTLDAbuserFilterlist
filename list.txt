@@ -1,3 +1,7 @@
+[Adblock Plus 2.0]
+! Title: Anti TLD Abuser Filterlist
+! Expires: 4 days (update frequency)
+! Version: 1.0
 ||zip^
 ||rest^
 ||boston^
@@ -10,3 +14,6 @@
 ||wtf^
 ||beauty
 ||ru^
+||name^
+||moe^
+||xyz^
