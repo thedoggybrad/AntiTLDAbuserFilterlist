@@ -17,3 +17,7 @@
 ||name^
 ||moe^
 ||xyz^
+||ch^
+||it^
+||de^
+||cc^
