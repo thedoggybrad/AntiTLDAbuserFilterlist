@@ -33,7 +33,7 @@ It stands for Top-Level domain and it is described as highest level in the hiera
 <br>
 •Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 
-### Githack CDN (Minutes of Delay)
+### Githack CDN (Almost Real-time)
 •Raw: https://raw.githack.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 <br>
 •Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://raw.githack.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
