@@ -14,7 +14,7 @@
 ||top^
 ||name^
 ||wtf^
-||beauty
+||beauty^
 ||ru^
 ||name^
 ||moe^
@@ -30,3 +30,11 @@
 ||de^
 ||au^
 ||cn^
+||eu^
+||co^
+||life^
+||site^
+||club^
+||racing^
+||in^
+||pro^
