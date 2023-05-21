@@ -25,5 +25,5 @@ It stands for Top-Level domain and it is described as the first outer component 
 It means that they are TLDs that are used in spams, scams, phishing and hacking.
 
 ## Issues Reporting and Suggestions
-I do not monitor my Github account always but I do monitor my Go Social! email address almist once a day. So, for issues and suggestions be sure to email admin@gosocial.x10.bz
+I do not monitor my Github account always but I do monitor my Go Social! email address almost once a day. So, for issues and suggestions be sure to email admin@gosocial.x10.bz
 
