@@ -67,7 +67,7 @@ This section is just an additional information about those options. Since not al
 <br>
 ✓GitHack CDN - It is an another public content delivery network, but only powered by CloudFlare CDN.
 <br>
-✓Statically CDN - It is an another public content delivery network, designed for developers and powered by Fastly, CloudFlare amd Bunny.NET.
+✓Statically CDN - It is an another public content delivery network, designed for developers and powered by Fastly, CloudFlare and Bunny.NET.
 
 ## License Agreement
 This project uses the [MIT License](https://github.com/thedoggybrad/AntiTLDAbuserFilterlist/blob/main/LICENSE), and it says that you can do whatever you want in this project like doing modifications and even creating a new product with this that you can patent.
