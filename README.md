@@ -17,7 +17,7 @@ Here are the resources used in making this filterlist:
 <br>
 •Phishlabs.com (Direct List)
 <br>
-•Wikipedia (List of TLDs, analayzed by TheDoggyBrad)
+•Wikipedia (List of TLDs, analyzed by TheDoggyBrad)
 <br>
 •ThioJoe from YouTube (Contents related to latest security vulnerabilities)
 
