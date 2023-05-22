@@ -110,7 +110,7 @@
 ||safe^
 ||ly^
 ||link^
-||io^
+||io^$domain=~github.io
 ||info^
 ||text^
 ||gs^
