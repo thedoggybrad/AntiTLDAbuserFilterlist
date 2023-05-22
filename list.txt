@@ -2,7 +2,7 @@
 ! Title: Anti TLD Abuser Filterlist
 ! Expires: 1 day (update frequency)
 ! Version: 2.0
-! Description: Warns you from visiting sites using thA filterlist for AdBlock Plus compatible filterlists that will warn you from visiting websites that are using those mostly and probably abused TLDs.
+! Description: A filterlist for AdBlock Plus compatible filterlists that will warn you from visiting websites that are using those mostly and probably abused TLDs.
 ! Raw: https://raw.githubusercontent.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 ! Homepage: https://github.com/thedoggybrad/AntiTLDAbuserFilterlist/
 ! License: https://github.com/thedoggybrad/AntiTLDAbuserFilterlist/blob/main/LICENSE
