@@ -11,11 +11,15 @@ or even google.com right?
 ## Our Sources of those TLDs under that category
 Here are the resources used in making this filterlist:
 <br>
-•Circleid.com
+•Circleid.com (Direct List)
 <br>
-•Spamhouse.org
+•Spamhouse.org (Direct List)
 <br>
-•Phishlabs.com
+•Phishlabs.com (Direct List)
+<br>
+•Wikipedia (List of TLDs, analayzed by TheDoggyBrad)
+<br>
+•ThioJoe from YouTube (Contents related to latest security vulnerabilities)
 
 ## Our definition of "abused"
 It means that they are TLDs that are used in spams, scams, phishing, hacking and other unethical things in the same nature.
