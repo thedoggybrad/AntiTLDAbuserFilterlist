@@ -35,7 +35,7 @@ CDNs are best to be used if you want to delay updates on your adblock, so that i
 <br>
 •Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 
-### jsDelivr CDN (1 Week Delay)
+### jsDelivr CDN (7 Days Delay)
 •Raw: https://cdn.jsdelivr.net/gh/thedoggybrad/AntiTLDAbuserFilterlist@main/list.txt
 <br>
 •Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/thedoggybrad/AntiTLDAbuserFilterlist@main/list.txt
@@ -50,7 +50,7 @@ CDNs are best to be used if you want to delay updates on your adblock, so that i
 <br>
 •Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://raw.githack.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 
-### Gitloaf CDN 
+### Gitloaf CDN (Delay Unknown)
 •Raw:
 https://gitloaf.com/cdn/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 <br>
