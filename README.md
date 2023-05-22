@@ -18,7 +18,7 @@ It means that they are TLDs that are used in spams, scams, phishing, hacking and
 It stands for Top-Level domain and it is described as highest level in the hierarchical Domain Name System of the Internet after the root domain or simply it is the last word after the period (like .com or .org).
 
 ## Add this filterlist to your Adblock
-CDNs are best to be used if you want to delay updates on your adblock, so that if there is a bug atleast it will be fixed before being used by your adblock. But if you want to receive changes in real-time then use the Github one or with minimal delays use Githack CDN instead.
+CDNs are best to be used if you want to delay updates on your adblock, so that if there is a bug atleast it will be fixed before being used by your adblock. But if you want to receive changes in real-time then use the Github one or if you want minimal delays then use Githack CDN instead.
 
 ### Github (Real-time)
 •Raw: https://raw.githubusercontent.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
