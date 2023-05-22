@@ -50,6 +50,13 @@ CDNs are best to be used if you want to delay updates on your adblock, so that i
 <br>
 •Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://raw.githack.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 
+### Gitloaf CDN 
+•Raw:
+https://gitloaf.com/cdn/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
+<br>
+•Subscribe:
+https://subscribe.adblockplus.org/?location=https://gitloaf.com/cdn/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
+
 
 ## What is Raw, Subscribe and CDNs?
 This section is just an additional information about those options. Since not all the people know what are those terms.
