@@ -9,7 +9,13 @@ It is the TLDs that are commonly abused but not those very commonly accessed one
 or even google.com right?
 
 ## Our Sources of those TLDs under that category
-It is the reputable sources on the internet like Spamhouse.org.
+Here are the resources used in making this filterlist:
+<br>
+•Circleid.com
+<br>
+•Spamhouse.org
+<br>
+•Phishlabs.com
 
 ## Our definition of "abused"
 It means that they are TLDs that are used in spams, scams, phishing, hacking and other unethical things in the same nature.
