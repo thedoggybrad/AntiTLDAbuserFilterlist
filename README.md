@@ -50,7 +50,7 @@ CDNs are best to be used if you want to delay updates on your adblock, so that i
 <br>
 •Subscribe (Easy to add link): https://subscribe.adblockplus.org/?location=https://raw.githack.com/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 
-### Gitloaf CDN (Delay Unknown)
+### Gitloaf CDN (Almost Real-time)
 •Raw:
 https://gitloaf.com/cdn/thedoggybrad/AntiTLDAbuserFilterlist/main/list.txt
 <br>
