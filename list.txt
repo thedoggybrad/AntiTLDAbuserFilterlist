@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Anti TLD Abuser Filterlist
+! Author: TheDoggyBrad Software Lab
 ! Expires: 1 day (update frequency)
 ! Version: 2.1
 ! Description: A filterlist for AdBlock Plus compatible filterlists that will warn you from visiting websites that are using those mostly and probably abused TLDs.
